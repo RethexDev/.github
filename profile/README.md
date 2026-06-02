@@ -2,19 +2,16 @@
 
 ### New Networks. New Currency.
 
-[
+
 
 ![Website](https://img.shields.io/badge/WEBSITE-rethex.io-00ffa3?style=for-the-badge&logoColor=white)
 
-](https://rethex.io) [
 
-![Telegram](https://img.shields.io/badge/TELEGRAM-%40rethex-00cfff?style=for-the-badge&logo=telegram&logoColor=white)
 
-](https://t.me/rethex) [
 
 ![X](https://img.shields.io/badge/X-%40rethexorg-000000?style=for-the-badge&logo=x&logoColor=white)
 
-](https://x.com/rethexorg)
+
 
 > "Privacy is a fundamental human right."
 
@@ -22,7 +19,7 @@
 
 ## About Us
 
-Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem through the **RETHEX** coin.
+Our mission is to support the entire Reticulum ecosystem through the **RETHEX** coin.
 
 Software support, hardware availability, knowledge accessibility, and community building are our core pillars.
 
