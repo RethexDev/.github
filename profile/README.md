@@ -1,0 +1,56 @@
+# RETHEX
+
+### New Networks. New Currency.
+
+[
+
+![Website](https://img.shields.io/badge/WEBSITE-rethex.io-00ffa3?style=for-the-badge&logoColor=white)
+
+](https://rethex.io)
+[
+
+![Telegram](https://img.shields.io/badge/TELEGRAM-@rethex-00cfff?style=for-the-badge&logo=telegram&logoColor=white)
+
+](https://t.me/rethex)
+[
+
+![X](https://img.shields.io/badge/X-@rethexorg-000000?style=for-the-badge&logo=x&logoColor=white)
+
+](https://x.com/rethexorg)
+
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║     "Privacy is a fundamental human right."      ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+---
+
+## About Us
+
+Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem through the **RETHEX** coin.
+
+Software support, hardware availability, knowledge accessibility, and community building are our core pillars.
+
+---
+
+## Hardware Firmware
+
+| Repo | Description |
+| --- | --- |
+| **ratcom** | Reticulum on the M5Stack Cardputer |
+| **ratdeck** | Reticulum on the LilyGo T-Deck |
+
+---
+
+## Software & Libraries
+
+| Repo | Description |
+| --- | --- |
+| **lrgp-py** | Multiplayer games over LXMF (Python) |
+| **lrgp-rs** | Multiplayer games over LXMF (Rust) |
+| **revanity-go** | Reticulum/LXMF vanity address generator |
+| **rethex-site** | RETHEX frontend website + docs |
+
+---
+
+*Built with love and intent.*
