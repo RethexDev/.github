@@ -9,7 +9,7 @@
 
 
 
-![X](https://img.shields.io/badge/X-%40rethexorg-000000?style=for-the-badge&logo=x&logoColor=white)
+![X](https://img.shields.io/badge/X-%40RethexDev-000000?style=for-the-badge&logo=x&logoColor=white)
 
 
 
